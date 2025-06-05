@@ -2,7 +2,7 @@
 
 ## 1. GitHub Actions workflow faylining standart nomi nima?
 
-B) deploy.yml
+B) deploy.ym
 
 ## 2. GitHub Actions da qaysi kalit so'z workflow ishga tushish shartlarini belgilaydi?
 
